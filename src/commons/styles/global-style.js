@@ -29,6 +29,7 @@ html, body {
 }
 .pt-2 {
     padding-top: 16px;
+    margin: 1rem;
 }
 .cursor {
     cursor: pointer;
